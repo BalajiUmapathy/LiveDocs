@@ -14,7 +14,7 @@
   <h3 align="center">A Collaborative LiveDocs</h3>
 
  <div align="center">
-     Visit the website by clicking on <a href="https://live-docs-balaji.vercel.app/" target="_blank"><b>Care Pulse </b></a> 
+     Visit the website by clicking on <a href="https://live-docs-balaji.vercel.app/" target="_blank"><b>LiveDocs </b></a> 
     </div>
 </div>
 
